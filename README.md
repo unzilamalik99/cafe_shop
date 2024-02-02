@@ -1,4 +1,6 @@
 Cafe Shop
+<br/>
+<img src="https://github.com/unzilamalik99/cafe_shop/assets/136435499/e6c7db01-12d8-49da-b342-76142e3ad55b" width="500">
 
 
 <img src="https://github.com/unzilamalik99/cafe_shop/assets/136435499/5b333afa-9d21-4bf4-9d36-bb8ef1c51fa4" width="500">
